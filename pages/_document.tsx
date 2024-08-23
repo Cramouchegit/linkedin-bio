@@ -10,7 +10,7 @@ class MyDocument extends Document {
             name="description"
             content="Bikin bio LinkedIn profesional dalam hitungan detik."
           />
-          <meta property="og:site_name" content="bikin-linkedin-bio.vercel.app" />
+          <meta property="og:site_name" content="https://linkedin-bio-dev.vercel.app/" />
           <meta
             property="og:description"
             content="Bikin bio LinkedIn profesional dalam hitungan detik."
@@ -24,11 +24,11 @@ class MyDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://bikin-linkedin-bio.vercel.app/og-image.png"
+            content="https://linkedin-bio-dev.vercel.app/og-image.png"
           />
           <meta
             name="twitter:image"
-            content="https://bikin-linkedin-bio.vercel.app/og-image.png"
+            content="https://linkedin-bio-dev.vercel.app/og-image.png"
           />
         </Head>
         <body>
