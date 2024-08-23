@@ -24,7 +24,7 @@ This application uses the Groq AI API to generate a customized LinkedIn bio. The
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/irfan-za/linkedin-bio.git
+   git clone https://github.com/Cramouchegit/linkedin-bio.git
    ```
 2. Navigate into the project directory:
    ```bash
