@@ -16,12 +16,12 @@ export default function Footer() {
         {" | "}
         Developed by{" "}
         <a
-          href="https://portfolio-irfan-za.vercel.app"
+          href="https://portfolio-guntur.vercel.app"
           target="_blank"
           rel="noreferrer"
           className="font-semibold text-blue-500 hover:underline transition underline-offset-2"
         >
-          irfan-za
+          Mabuchi
         </a>
       </p>
     </footer>

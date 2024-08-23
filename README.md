@@ -2,7 +2,7 @@
 
 Transform your LinkedIn presence in seconds with our AI-powered professional bio generator.
 
-[![Linkedin Bio Generator](./public/thumbnail.png)](https://bikin-linkedin-bio.vercel.app)
+[![Linkedin Bio Generator](./public/thumbnaill.png)](https://bikin-linkedin-bio.vercel.app)
 
 ## How it Works
 
