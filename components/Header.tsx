@@ -11,7 +11,7 @@ export default function Header() {
       </Link>
       <a
         className="flex max-w-fit items-center justify-center font-medium space-x-2 rounded-md border border-blue-500 bg-blue-100 px-4 py-2 text-sm text-blue-500 shadow-md transition-colors hover:bg-blue-500 hover:text-white"
-        href="https://github.com/irfan-za/linkedin-bio"
+        href="https://github.com/Cramouchegit/linkedin-bio"
         target="_blank"
         rel="noopener noreferrer"
       >
